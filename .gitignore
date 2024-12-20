@@ -1,1 +1,8 @@
-### AL ###
+# User-specific files
+.vs/
+.vscode/*
+bin/
+obj/
+.config/*
+dist/*
+
